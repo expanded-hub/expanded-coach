@@ -19,7 +19,7 @@ export interface Env {
 }
 
 const ALLOWED_ORIGINS = [
-  'https://expandedfuture.github.io',
+  'https://expanded-hub.github.io',
   'http://localhost:5173',
   'http://localhost:4173',
 ];
